@@ -11,7 +11,6 @@ This project involves training a convolutional neural network (CNN) to restore i
 - [Conclusion](#conclusion)
 
 ## Introduction
-
 The goal of this project is to develop a neural network model that can restore corrupted images. This involves corrupting images by adding blocks to them and then training a model to reconstruct the original images from the corrupted ones.
 
 ## Dataset
@@ -61,4 +60,4 @@ The loss and Structural Similarity Index (SSIM) are used to evaluate the model's
 The qualitative evaluation assesses the visual quality of the restored images. Visualizations show side-by-side comparisons of original, corrupted, and restored images. This evaluation helps assess how effectively the model is able to restore the corrupted parts of the images, with restored images closely resembling the original uncorrupted images.
 
 ## Conclusion
-The model demonstrates a practical application of neural networks in image restoration. It shows that while the model performs well with fewer corrupted blocks, the restoration quality decreases as the number of corrupted blocks increases. Nonetheless, the results are promising and highlight the potential for similar approaches to be applied in real-world image restoration tasks.
+The model demonstrates a practical application of neural networks in image restoration. It shows that while the model performs well with fewer corrupted blocks, the restoration quality decreases as the number of corrupted blocks increases.
