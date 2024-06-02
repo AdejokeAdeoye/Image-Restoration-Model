@@ -2,8 +2,7 @@
 I implemented an image restoration routine in Keras. This task included training a suitable neural network to restore corrupted images.
 
 The tasks included;
-1. Corrupting the CIFAR-10 dataset with 10, 50 and 100 number of blocks.
-The number of the corrupted image blocks and size is specified by max_no_blocks and by block_size arguments respectively.
+1. Corrupted the CIFAR-10 dataset with a function that adds blocks to the images.
 2. Implement a suitable model that restored the corrupted images.
 3. Visualized some of the reconstructions of my model applied to the test dataset.
 
