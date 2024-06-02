@@ -1,6 +1,6 @@
 # Image Restoration Model
 
-I implemented an image restoration routine using Keras. The project involves training a convolutional neural network (CNN) to restore images that have been intentionally corrupted by adding blocks. The CIFAR-10 dataset is used for training and evaluation.
+This project involves training a convolutional neural network (CNN) to restore images that have been intentionally corrupted by adding blocks. The CIFAR-10 dataset is used for training and evaluation.
 
 ## Table of Contents
 - [Introduction](#introduction)
