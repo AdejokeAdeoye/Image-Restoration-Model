@@ -1,4 +1,4 @@
-# Image Restoration Model
+# Image Restoration Model - Deep Learning
 
 This project involves training a convolutional neural network (CNN) to restore images that have been intentionally corrupted by adding blocks. The CIFAR-10 dataset is used for training and evaluation.
 
